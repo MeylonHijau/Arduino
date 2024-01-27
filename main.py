@@ -39,7 +39,7 @@ def main():
     print(colored('[Info]', 'green'), colored('LeftAlt', 'magenta'), colored('= Triggerbot', 'white'))
     print(colored('[Info]', 'green'), colored('LeftCtrl', 'magenta'), colored('= Silentaim', 'white'))
     print(colored('[Info]', 'green'), colored('GitHub Repo:', 'white'),
-          '\033[35;4mhttps://github.com/hafyzwithawhy/Colorant\033[0m')
+          '\033[35;4mhttps://github.com/Nutexe999/Valorant-Color-Aimbot\033[0m')
     print(colored('[Info]', 'green'), colored('Made By', 'white'), colored('Hafez#6866', 'magenta'))
     status = 'Disabled'
     
