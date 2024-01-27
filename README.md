@@ -24,14 +24,4 @@ To utilize the Arduino board as a computer mouse, the user can upload the Arduin
 
 With the prerequisites and dependencies installed, you can now run the `main.py` file, which is the main entry point of the program. You do not need to make any changes to the code, as it is ready to use.
 
-By following these steps, you can enjoy using Colorant to quickly and accurately aim and shoot within your favorite valorant gamemode.
-
-## Info
-In order for Colorant to function correctly, there are a few important things that you need to consider:
-
-- Enemy outlines should be set to PURPLE, as this is how the color aimbot operates.
-- For optimal performance, it is recommended to use a mouse with the following settings: 800DPI, 0.5 ingame sensitivity, and a 1920x1080 monitor.
-- The FOV size can be adjusted by editing the value located [Here](https://github.com/hafyzwithawhy/Colorant/blob/836189fb99fa8d6906569103d58a75b4ab98b760/main.py#L8) while the TOGGLE_KEY ON/OFF key can be changed [Here](https://github.com/hafyzwithawhy/Colorant/blob/836189fb99fa8d6906569103d58a75b4ab98b760/main.py#L7).
-- If you wish to modify the keybinds for the aimbot, Check [This](https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes) link and then change the virtual-key codes in [This](https://github.com/hafyzwithawhy/Colorant/blob/836189fb99fa8d6906569103d58a75b4ab98b760/colorant.py#L26) function.
-
 
