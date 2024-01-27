@@ -1,5 +1,5 @@
 
-# Valorant-Color-Aimbot 
+# Valorant Color Aimbot 
 
 Colorant is a highly efficient Color Aimbot designed to rapidly scan for purple color range on your screen and aim/shoot at it, without any interference with the game memory or files of Valorant.
 
